@@ -1,7 +1,7 @@
 // TODO Definiti urmatoarele constante cu valori potrivite (prin incercari) in loc de 0
 
 let move_speed = 3.2;
-let gravity = 0.32;
+let gravity = 0.16;
 let pipe_gap = 18.3;
 let pipe_seperation = 0;
 let bird_dy = 0;
